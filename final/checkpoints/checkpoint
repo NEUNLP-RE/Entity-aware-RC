@@ -1,0 +1,6 @@
+model_checkpoint_path: "/nlp/entity-aware-relation-classification/runs/1581753232/checkpoints/model-84.5-26900"
+all_model_checkpoint_paths: "/nlp/entity-aware-relation-classification/runs/1581753232/checkpoints/model-83.9-24400"
+all_model_checkpoint_paths: "/nlp/entity-aware-relation-classification/runs/1581753232/checkpoints/model-83.9-25100"
+all_model_checkpoint_paths: "/nlp/entity-aware-relation-classification/runs/1581753232/checkpoints/model-84.1-25300"
+all_model_checkpoint_paths: "/nlp/entity-aware-relation-classification/runs/1581753232/checkpoints/model-84.3-26500"
+all_model_checkpoint_paths: "/nlp/entity-aware-relation-classification/runs/1581753232/checkpoints/model-84.5-26900"
