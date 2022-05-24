@@ -1,6 +1,6 @@
 tensorflow==1.8.0
 tensorboard==1.8.0
-tensorflow-gpu==1.8.0
+tensorflow-gpu==2.6.4
 tensorflow-hub==0.1.1
 sklearn
 numpy
